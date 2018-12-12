@@ -240,7 +240,7 @@ Tooltip.defaultProps = {
 
 const styles = {
   container: withOverlay => ({
-    backgroundColor: withOverlay ? 'rgba(250, 250, 250, 0.70)' : 'transparent',
+    backgroundColor: withOverlay ? 'rgba(250, 250, 250, 1)' : 'transparent',
     flex: 1,
   }),
 };
